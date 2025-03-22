@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I am a PhD student at Monash University interested in LLM machine unlearning.
 <!--
 **Chenchen-Tan/Chenchen-Tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
